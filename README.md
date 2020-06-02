@@ -16,3 +16,8 @@ Tested with: Genesis Framework: Version: 3.3.2+ Wordpress: 5.4.1+
 The themes are somewhere in time bought by:)
 
 To change fotter text use: https://wordpress.org/plugins/genesis-footer-builder/
+
+::::::::::::::::::::::::::::::
+PART 1:
+ * PART 1: https://github.com/tinaponting/genesis-child-themes
+::::::::::::::::::::::::::::::
