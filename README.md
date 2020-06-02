@@ -22,3 +22,5 @@ PART 1:
  * PART 1: https://github.com/tinaponting/genesis-child-themes
  
 ::::::::::::::::::::::::::::::
+* Sweet Kitchen: a good blogger theme, but to small for my taste! but maybe someone else likes it?
+* Butter cream, a blogger theme.
