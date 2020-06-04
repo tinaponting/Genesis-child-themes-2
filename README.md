@@ -25,3 +25,4 @@ PART 1:
 * Sweet Kitchen: a good blogger theme, but to small for my taste! but maybe someone else likes it?
 * Butter cream, a blogger theme.
 * Mommy blogs, a simpel blogging theme for food or just plain bloggers.
+* Justbecause, a blogging them, to small for my taste.
