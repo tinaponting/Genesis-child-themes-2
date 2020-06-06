@@ -27,4 +27,6 @@ PART 1:
 * Mommy blogs: a simpel blogging theme for food or just plain bloggers.
 * Justbecause: a blogging them, to small for my taste.
 * Blossom: A blog theme with woocommerce ( Too small for my taste)
+* Victoria, a gallery /photo / blooging theme.
+
 * Shoreline: a simpel blogging theme.
