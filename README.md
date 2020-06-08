@@ -28,5 +28,5 @@ PART 1:
 * Justbecause: a blogging them, to small for my taste.
 * Blossom: A blog theme with woocommerce ( Too small for my taste)
 * Victoria, a gallery /photo / blooging theme.
-
 * Shoreline: a simpel blogging theme.
+* Think: business or app theme.
