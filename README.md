@@ -30,3 +30,4 @@ PART 1:
 * Victoria, a gallery /photo / blooging theme.
 * Shoreline: a simpel blogging theme.
 * Think: business or app theme.
+* Pngs: Woman or  Fashion theme/ News /photo theme.
