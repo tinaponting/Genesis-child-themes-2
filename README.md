@@ -21,7 +21,8 @@ To change fotter text use: https://wordpress.org/plugins/genesis-footer-builder/
 PART 1:
  * PART 1: https://github.com/tinaponting/genesis-child-themes
  
-::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 * Sweet Kitchen: a good blogger theme, but to small for my taste! but maybe someone else likes it?
 * Butter cream: a blogger theme.
 * Mommy blogs: a simpel blogging theme for food or just plain bloggers.
@@ -33,3 +34,8 @@ PART 1:
 * Pngs: Woman or  Fashion theme/ News /photo theme.
 * Mellow: A  woman or blogging theme.
 * Just Married: A comon theme, suits marriage or just blogging.
+* Envy: Simpel theme with woocommerce.
+* Envy pro: More powerful with woocommerce.
+* Stylin´: Photo or portfolio blog theme.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
