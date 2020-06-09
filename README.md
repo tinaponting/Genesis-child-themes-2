@@ -26,9 +26,10 @@ PART 1:
 * Butter cream: a blogger theme.
 * Mommy blogs: a simpel blogging theme for food or just plain bloggers.
 * Justbecause: a blogging them, to small for my taste.
-* Blossom: A blog theme with woocommerce ( Too small for my taste)
-* Victoria, a gallery /photo / blooging theme.
+* Blossom: A blog theme with woocommerce ( Too small for my taste).
+* Victoria: a gallery /photo / blooging theme.
 * Shoreline: a simpel blogging theme.
 * Think: business or app theme.
 * Pngs: Woman or  Fashion theme/ News /photo theme.
 * Mellow: A  woman or blogging theme.
+* Just Married: A comon theme, suits marriage or just blogging.
