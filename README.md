@@ -43,5 +43,10 @@ PART 1:
 * Bluebell: A themes for Entrepuers and bloggers works alos for photo bloggers.
 * Current Obsessions: a common theme foe female bloggers.
 * Easyeats: A theme for bloggers or recipie bloggers, a common theme.
+* Forks & Spoons: A common theme among ´female bloggers, works also for recipe bloggers.
+* Marble: A theme for bloggers.
+* Singing Hearts: A common theme among female bloggers.
+* Sprinkle: a blog theme.
+* Silver: A common theme for bloggers with woocommerce.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
