@@ -37,5 +37,6 @@ PART 1:
 * Envy: Simpel theme with woocommerce.
 * Envy pro: More powerful with woocommerce.
 * Stylin´: Photo or portfolio blog theme.
+* Premium business: A business theme.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
