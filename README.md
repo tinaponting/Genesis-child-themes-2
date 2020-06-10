@@ -38,5 +38,6 @@ PART 1:
 * Envy pro: More powerful with woocommerce.
 * Stylin´: Photo or portfolio blog theme.
 * Premium business: A business theme.
+* Adelle, a woman blog theme, works also as photo blog.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
