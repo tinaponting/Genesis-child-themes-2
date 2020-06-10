@@ -38,6 +38,9 @@ PART 1:
 * Envy pro: More powerful with woocommerce.
 * Stylin´: Photo or portfolio blog theme.
 * Premium business: A business theme.
-* Adelle, a woman blog theme, works also as photo blog.
+* Adelle: a woman blog theme, works also as photo blog.
+* Blissed out: A common theme around womman bloggers, to small for my taste, but someone maybe loves it?
+: Bluebell: A themes for Entrepuers and bloggers works alos for photo bloggers.
+: Current Obsessions: a common theme foe female bloggers.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
