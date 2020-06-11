@@ -48,5 +48,6 @@ PART 1:
 * Singing Hearts: A common theme among female bloggers.
 * Sprinkle: a blog theme.
 * Silver: A common theme for bloggers with woocommerce.
+* Design department: A common theme among female bloggers.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
