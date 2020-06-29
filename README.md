@@ -49,5 +49,6 @@ PART 1:
 * Sprinkle: a blog theme.
 * Silver: A common theme for bloggers with woocommerce.
 * Design department: A common theme among female bloggers.
+* Eleanor, a widly used theme with woocommerce, can be used with one or two rows I think.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
