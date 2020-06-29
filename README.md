@@ -50,5 +50,6 @@ PART 1:
 * Silver: A common theme for bloggers with woocommerce.
 * Design department: A common theme among female bloggers.
 * Eleanor, a widly used theme with woocommerce, can be used with one or two rows I think.
+* Fragranz: a magazine or blogging theme, 1 or 2 rows.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
