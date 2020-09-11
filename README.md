@@ -16,6 +16,7 @@ Tested with: Genesis Framework: Version: 3.3.2+ Wordpress: 5.4.1+
 The themes are somewhere in time bought by:)
 
 To change fotter text use: https://wordpress.org/plugins/genesis-footer-builder/
+IMPORTANT: Take notepad + and take style.css and delate: Updated URL! not my domain anymore!
 
 ::::::::::::::::::::::::::::::
 PART 1:
@@ -51,5 +52,6 @@ PART 1:
 * Design department: A common theme among female bloggers.
 * Eleanor, a widly used theme with woocommerce, can be used with one or two rows I think.
 * Fragranz: a magazine or blogging theme, 1 or 2 rows.
+* Blogging babe, A common theme for female blogger.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
