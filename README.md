@@ -53,5 +53,6 @@ PART 1:
 * Eleanor, a widly used theme with woocommerce, can be used with one or two rows I think.
 * Fragranz: a magazine or blogging theme, 1 or 2 rows.
 * Blogging babe, A common theme for female blogger.
+* Anabelle theme, a common woman theme, choose top theme color.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
