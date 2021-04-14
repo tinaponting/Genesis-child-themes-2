@@ -54,5 +54,6 @@ PART 1:
 * Fragranz: a magazine or blogging theme, 1 or 2 rows.
 * Blogging babe, A common theme for female blogger.
 * Anabelle theme, a common woman theme, choose top theme color.
+* Inpired, a pinboard inpired theme, works well with photo collection or similiar
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
