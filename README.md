@@ -19,8 +19,12 @@ To change fotter text use: https://wordpress.org/plugins/genesis-footer-builder/
 IMPORTANT: Take notepad + and take style.css and delate: Updated URL! not my domain anymore!
 
 ::::::::::::::::::::::::::::::
-PART 1:
- * PART 1: https://github.com/tinaponting/genesis-child-themes
+PARTS:
+PART 1: https://github.com/tinaponting/Genesis-child-themes
+
+PART 2: https://github.com/tinaponting/Genesis-child-themes-2
+
+PART 2: https://github.com/tinaponting/Genesis-child-themes-2
  
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
