@@ -2,7 +2,7 @@
 Abandoned genesis themes, but stils works part 2
 
 genesis-child-themes
-Genesis child themes who are Abandoned. But still good to use. Works with the Latest wordpress, 5,4. and Latest genesis framework.
+Genesis child themes who are Abandoned. But still good to use. Works with the Latest wordpress and Latest genesis framework.
 
 
 
