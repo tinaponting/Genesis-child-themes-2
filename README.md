@@ -11,7 +11,7 @@ Genesis child themes who are Abandoned. But still good to use. Works with the La
 
 For icons: For Icons best use: https://www.favicon-generator.org Use: Notepad + for changes!
 
-Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 5.9.3 +
+Tested with: Genesis Framework: Version: 3.3.5 + Wordpress: 6,01+
 
 The themes are somewhere in time bought by:)
 
