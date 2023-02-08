@@ -25,6 +25,9 @@ PART 1: https://github.com/tinaponting/Genesis-child-themes
 PART 2: https://github.com/tinaponting/Genesis-child-themes-2
 
 PART 2: https://github.com/tinaponting/Genesis-child-themes-2
+Genesis themes 3 https://github.com/tinaponting/Genesis-child-themes-3
+
+Genesis themes 4 https://github.com/tinaponting/Genesis-child-themes-4
  
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
