@@ -19,17 +19,6 @@ To change fotter text use: https://wordpress.org/plugins/genesis-footer-builder/
 IMPORTANT: Take notepad + and take style.css and delate: Updated URL! not my domain anymore!
 
 ::::::::::::::::::::::::::::::
-PARTS:
-PART 1: https://github.com/tinaponting/Genesis-child-themes
-
-PART 2: https://github.com/tinaponting/Genesis-child-themes-2
-
-PART 2: https://github.com/tinaponting/Genesis-child-themes-2
-Genesis themes 3 https://github.com/tinaponting/Genesis-child-themes-3
-
-Genesis themes 4 https://github.com/tinaponting/Genesis-child-themes-4
- 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * Sweet Kitchen: a good blogger theme, but to small for my taste! but maybe someone else likes it?
 * Butter cream: a blogger theme.
@@ -64,3 +53,18 @@ Genesis themes 4 https://github.com/tinaponting/Genesis-child-themes-4
 * Inpired, a pinboard inpired theme, works well with photo collection or similiar
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+PARTS:
+
+PART 1: https://github.com/tinaponting/Genesis-child-themes
+
+PART 2: https://github.com/tinaponting/Genesis-child-themes-2
+
+PART 2: https://github.com/tinaponting/Genesis-child-themes-2
+
+PART 3 https://github.com/tinaponting/Genesis-child-themes-3
+
+Part 4: https://github.com/tinaponting/Genesis-child-themes-4
+
+Part 5: https://github.com/tinaponting/Genesis-child-themes-5
+ 
